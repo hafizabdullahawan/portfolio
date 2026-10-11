@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Dependencies and builds
+node_modules/
+dist/
+.cache/
+
+# Logs and env/secrets
+*.log
+.env
+.env.*
+
+# Leftovers from the old PHP form (not used anymore)
+api/config.php
+api/messages.log
+
+# Archives
+*.zip

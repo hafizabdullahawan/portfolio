@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-label="Linked list address book diagram">
+<rect width="960" height="720" fill="#1A1A1A"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto"><path d="M0 0 10 5 0 10z" fill="#B88746"/></marker></defs>
+<g font-family="'DejaVu Sans Mono',Menlo,Consolas,monospace" fill="#FAF8F5">
+<text x="80" y="120" font-size="26" fill="#B88746">struct Contact {</text>
+<text x="110" y="160" font-size="22" fill="#9a9a9a">string name; string phone;</text>
+<text x="110" y="196" font-size="22" fill="#9a9a9a">Contact* next;</text>
+<text x="80" y="232" font-size="26" fill="#B88746">};</text>
+<g stroke="#B88746" stroke-width="3" fill="none" marker-end="url(#a)">
+<line x1="270" y1="440" x2="338" y2="440"/><line x1="530" y1="440" x2="598" y2="440"/><line x1="790" y1="440" x2="858" y2="440"/></g>
+<g fill="#262626" stroke="#6B6B6B" stroke-width="2">
+<rect x="80" y="380" width="190" height="120" rx="10"/><rect x="340" y="380" width="190" height="120" rx="10"/><rect x="600" y="380" width="190" height="120" rx="10"/></g>
+<g stroke="#6B6B6B" stroke-width="2"><line x1="80" y1="450" x2="270" y2="450"/><line x1="340" y1="450" x2="530" y2="450"/><line x1="600" y1="450" x2="790" y2="450"/></g>
+<g font-size="20" text-anchor="middle"><text x="175" y="422">contact</text><text x="435" y="422">contact</text><text x="695" y="422">contact</text>
+<text x="175" y="483" fill="#B88746">next</text><text x="435" y="483" fill="#B88746">next</text><text x="695" y="483" fill="#B88746">next</text></g>
+<text x="880" y="447" font-size="22" fill="#9a9a9a">∅</text>
+<text x="80" y="580" font-size="22" fill="#9a9a9a">create · read · update · delete</text>
+</g></svg>

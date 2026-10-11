@@ -1,0 +1,40 @@
+# Abdullah Idrees
+
+> Computer science student and software developer in Islamabad, Pakistan. Intern project manager at ExoNova Solutions. Works with C#, .NET, SQL Server, PHP, MySQL and JavaScript.
+
+Full name: Hafiz Muhammad Abdullah Idrees. BS Computer Science student at the Federal Urdu University of Arts, Science & Technology (FUUAST), 2024 to present. Looking for a software engineering internship.
+
+## Pages
+
+- [Home](https://www.abdullahidrees.com/): Introduction and selected projects
+- [About](https://www.abdullahidrees.com/about.html): Background and skills
+- [Projects](https://www.abdullahidrees.com/projects.html): All projects
+- [Services](https://www.abdullahidrees.com/services.html): What he can help with
+- [Experience](https://www.abdullahidrees.com/experience.html): Work and education
+- [Contact](https://www.abdullahidrees.com/contact.html): Email, phone, WhatsApp and contact form
+- [CV (PDF)](https://www.abdullahidrees.com/assets/CV_Hafiz_M_Abdullah.pdf)
+
+## Projects
+
+- [Pharmacy Management System](https://www.abdullahidrees.com/projects/pharmacy-management-system.html): A Windows Forms application for pharmacy inventory, sales, billing and prescription tracking, backed by SQL Server.
+- [Feenion: School Fees Software](https://www.abdullahidrees.com/projects/feenion-school-fees-software.html): A web application for schools to manage invoices and bills and track income, expenses and financial reports.
+- [Al Sahraa Landscaping](https://www.abdullahidrees.com/projects/al-sahraa-landscaping.html): A responsive website for a Dubai landscaping company with a services showcase and a client enquiry form.
+- [ExoNova Solutions](https://www.abdullahidrees.com/projects/exonova-solutions-website.html): The business website for ExoNova, a software and web design agency, with service listings and a portfolio.
+- [International SMM](https://www.abdullahidrees.com/projects/international-smm-panel.html): A social media marketing panel with user dashboards and API access, built with PHP and MySQL.
+- [Wander](https://www.abdullahidrees.com/projects/wander-travel-website.html): A travel booking website with destination search, curated tours and itinerary planning.
+- [Linked List Address Book](https://www.abdullahidrees.com/projects/linked-list-address-book.html): A contact manager in C++ built on a linked list, with full create, read, update and delete support.
+
+## Experience
+
+- Intern, Project Manager at ExoNova Solutions, Islamabad (Jan 2025 to present)
+- Science Teacher at Idrees Science Academy, Islamabad (Aug 2024 to Dec 2024)
+
+## Skills
+
+Languages: C#, C, C++, Python, SQL, HTML, CSS, JavaScript, PHP. Frameworks: .NET Framework, ASP.NET, Windows Forms. Databases: SQL Server, MySQL. Tools: Visual Studio, VS Code, Git. Spoken: Urdu (native), English (fluent), Punjabi (fluent).
+
+## Contact
+
+Email: hafizabdullahawan2@gmail.com
+LinkedIn: https://www.linkedin.com/in/hafiz-abdullah-b617a0389
+GitHub: https://github.com/hafizabdullahawan
