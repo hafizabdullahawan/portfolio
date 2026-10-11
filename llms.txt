@@ -36,5 +36,5 @@ Languages: C#, C, C++, Python, SQL, HTML, CSS, JavaScript, PHP. Frameworks: .NET
 ## Contact
 
 Email: hafizabdullahawan2@gmail.com
-LinkedIn: https://www.linkedin.com/in/hafiz-abdullah-b617a0389
+LinkedIn: https://www.linkedin.com/in/hafiz-muhammad-abdullah-idrees-b617a0389
 GitHub: https://github.com/hafizabdullahawan
